@@ -79,4 +79,9 @@ This made decision-making slower and less data-driven.
 
 This project helped me strengthen my Power BI, DAX, and analytical thinking skills while focusing on real-world business understanding and clear insight communication.
 
+## **6. Screenshots / Demos**
+how what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Example: ![Dashboard Preview]()
+
+
 ---
