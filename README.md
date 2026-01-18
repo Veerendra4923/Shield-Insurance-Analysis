@@ -81,7 +81,7 @@ This project helped me strengthen my Power BI, DAX, and analytical thinking skil
 
 ## **6. Screenshots / Demos**
 how what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview]()
+Example: ![Dashboard Preview](https://github.com/Veerendra4923/Shield-Insurance-Analysis/blob/main/Screenshot%202026-01-16%20134949.png)
 
 
 ---
